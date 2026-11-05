@@ -1,0 +1,11 @@
+# large data files
+train_data.csv
+test_data.csv
+title_brand.csv
+glove*.txt
+*.kv
+
+# misc
+.ipynb_checkpoints/
+__pycache__/
+*backup*.ipynb
