@@ -9,3 +9,12 @@ glove*.txt
 .ipynb_checkpoints/
 __pycache__/
 *backup*.ipynb
+
+# part 3: data and intermediate files stay on Google Drive
+train.csv
+test.csv
+mapping.csv
+*.pkl
+*.npy
+best_*/
+checkpoint-*/
