@@ -6,7 +6,7 @@ This project explores how input representation and model architecture influence 
 
 The work follows a sequence of decisions: understand the data, preserve useful evidence in the input, choose a suitable model, and measure the resulting behavior.
 
-**[Project presentation](AI_Bootcamp_Group4_Presentation_EN.pdf)** · **[Project brief](https://docs.google.com/document/d/13svIffMnZpzdDUqRERQIR3cJHNZK6APT9zRLm3q5-XA/edit)**
+**[Interactive dashboard](dashboard.html)** · **[Project presentation](AI_Bootcamp_Group4_Presentation_EN.pdf)** · **[Project brief](https://docs.google.com/document/d/13svIffMnZpzdDUqRERQIR3cJHNZK6APT9zRLm3q5-XA/edit)**
 
 ## Project Overview
 
@@ -155,6 +155,7 @@ All values in this table are **validation Micro-F1** from the final modeling run
 
 | Path | Contents |
 | --- | --- |
+| [`dashboard.html`](dashboard.html) | Interactive results dashboard for both problems (download and open in a browser; works offline) |
 | [`AI_Bootcamp_Group4_Presentation_EN.pdf`](AI_Bootcamp_Group4_Presentation_EN.pdf) | English project presentation |
 | [`problem1/`](problem1/) | Accident-anticipation notebooks and technical reports |
 | [`problem2/q2_part1_part2.ipynb`](problem2/q2_part1_part2.ipynb) | Review exploration and warranty analysis |
