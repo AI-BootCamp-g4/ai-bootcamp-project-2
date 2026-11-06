@@ -7,8 +7,10 @@ QBC13 AI Bootcamp, group project 2.
 ```
 problem2/
   q2_part1_part2.ipynb        Part 1 (EDA, Q1-Q6) + Part 2 (warranty aspect analysis)
-  outputs/
+  outputs/                    files written by the notebook
     manual_check.csv          manual labels for the warranty filter check
+    verb_check.csv            manual labels for reviews dropped by the "guarantee as a verb" rule
+    rma_check.csv             manual labels for reviews added by the word "rma"
     warranty_by_product.csv   warranty-related ratings per product
 ```
 
